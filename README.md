@@ -1,5 +1,7 @@
 ## Okta OpenID Connect Fun!
 
+https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1
+
 This is a Spring Boot project that demonstrates various OIDC flows using
 configurable response types and scopes.
 
